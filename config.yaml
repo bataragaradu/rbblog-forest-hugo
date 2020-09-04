@@ -1,4 +1,5 @@
-baseURL: "https://example.com"
+baseURL: "bataragaradu.github.io/rbblog-forest-hugo/"
+publishDir: "docs"
 languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
