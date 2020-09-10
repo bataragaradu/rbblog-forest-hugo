@@ -1,4 +1,4 @@
-baseURL: "bataragaradu.github.io/rbblog-forest-hugo/"
+baseURL: "https://frosty-wiles-7881c0.netlify.app/"
 languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
