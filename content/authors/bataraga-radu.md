@@ -2,7 +2,7 @@
 avatar = ""
 bio = "https://www.rbinnovative.info"
 draft = true
-featured = false
+featured = true
 title = "Bataraga Radu"
 [[social]]
 title = "Java Software Developer"
