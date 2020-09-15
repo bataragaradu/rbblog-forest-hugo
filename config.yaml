@@ -10,11 +10,7 @@ module:
     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
   github: "#"
-  instagram: "#"
   linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
 taxonomies:
-  author: Bataraga Radu Florin
+  author: "Bataraga Radu"

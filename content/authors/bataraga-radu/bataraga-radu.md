@@ -1,5 +1,5 @@
 ---
-title: Bataraga Radu Florin
+title: Bataraga Radu
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
