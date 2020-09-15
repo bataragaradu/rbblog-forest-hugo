@@ -1,7 +1,6 @@
 +++
 avatar = ""
 bio = "https://www.rbinnovative.info"
-draft = true
 featured = true
 title = "Bataraga Radu"
 [[social]]
