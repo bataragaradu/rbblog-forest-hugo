@@ -1,6 +1,6 @@
 baseURL: "https://frosty-wiles-7881c0.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Blog by passion"
 pygmentsstyle: 'monokai'
 
 # Theme settings
@@ -13,4 +13,5 @@ social:
   github: "#"
   linkedin: "#"
 taxonomies:
-  author: "Bataraga Radu"
+  author: "authors"
+#  author: "bataraga-radu"

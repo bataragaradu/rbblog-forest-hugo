@@ -5,8 +5,7 @@ hero: /images/hero-2.jpg
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 timeToRead: 4
 authors:
-  - Dennis Brotzky
-
+  - Bataraga Radu
 ---
 
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.

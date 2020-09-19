@@ -44,4 +44,4 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
-- content/authors/bataraga-f/bataraga-fff.md
+- content/authors/_index.md
