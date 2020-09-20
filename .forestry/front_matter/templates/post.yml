@@ -42,3 +42,4 @@ fields:
   label: Authors
 pages:
 - content/post/openshift-and-kubernetes.md
+- content/post/springboot/springboot-server.md
