@@ -8,6 +8,7 @@ timeToRead = 5
 title = "Openshift and Kubernetes"
 
 +++
+
 OpenShift is a platform as a service (PaaS) from Red Hat that is built on Docker and Kubernetes. Kubernetes is an open source, container as a service (CaaS) project originating from Google
 
 [![](https://lh4.googleusercontent.com/3XU6jvGyinbFikv18mjAsbO4rnK0SUZ6pwu3GUcVl95HGFVLufun1NFNAowXLFLBnJ9yusiU-YBK3fO7aoVQCHU8yg8KKY95qwYAQe8kGmfX1m5YMBk5KUKKUHnyuuUrjYTCqUvw =502x375)](https://miro.medium.com/max/502/0*n2dGPTi4tIlyo7Jf.png)
