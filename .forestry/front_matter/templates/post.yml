@@ -40,3 +40,6 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/openshift-and-kubernetes.md
+- content/post/springboot/springboot-server.md
