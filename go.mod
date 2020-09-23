@@ -1,5 +1,5 @@
-module github.com/bataragaradu/hugo-theme-novela
+module github.com/forestryio/novela-hugo-starter
 
 go 1.15
 
-require github.com/bataragaradu/hugo-theme-novela v0.0.0-20200923140807-073dc6f0de5d // indirect
+require github.com/forestryio/hugo-theme-novela v0.0.0-20200923124324-608af7f1ee46 // indirect
