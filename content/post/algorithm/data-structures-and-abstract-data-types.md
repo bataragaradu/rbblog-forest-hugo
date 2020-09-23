@@ -3,7 +3,7 @@ authors = []
 date = 2020-09-22T21:00:00Z
 excerpt = "Lets have a general idea about abstract data types and data structures."
 hero = "/images/algorithm-preview.jpg"
-timeToRead = 5
+timeToRead = 7
 title = "Data structures and Abstract Data Types"
 
 +++
@@ -48,6 +48,7 @@ The most common ADTs:
 
 ### Data Structures
 
+Data structures are used to implement ADTs. Usually there are multiple implementation for one ADTs. For example we can implement a stack by using   
 We can see data structures from two major points: 
 
 _Logical_, the way data binds together
@@ -57,3 +58,12 @@ _Memory,_ the way data is represented in memory. Also here 3 categories can be f
 * Static like articles and arrays
 * Semi-static like queues, stacks
 * Dynamic like Linked List and Trees
+
+Commonly used Data Structures:
+
+* Arrays
+* Linked list
+* Hash Tables
+* Binary trees
+* Graphs
+* Heap
