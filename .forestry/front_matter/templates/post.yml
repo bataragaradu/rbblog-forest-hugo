@@ -42,6 +42,7 @@ fields:
   label: Authors
 pages:
 - content/post/algorithm/algorithm-tips-and-tricks.md
+- content/post/algorithm/data-structures-and-abstract-data-types.md
 - content/post/business-development/i-really-need-a-website-but-i-don-t-know-where-to-start.md
 - content/post/openshift-and-kubernetes.md
 - content/post/springboot/springboot-server.md
