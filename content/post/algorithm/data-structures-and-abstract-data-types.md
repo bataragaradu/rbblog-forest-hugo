@@ -13,8 +13,6 @@ title = "Data structures and Abstract Data Types"
 
 ### Lets have a general idea about abstract data types and data structures.
 
-It's easy to forget when you're not diving everyday in a new algorithm problem that data structures aren't the same thing as Abstract data types. For me, when I hear abstract data types I'm teleported back in my old college table while drawing 3asdasdasdsa
+It's easy to forget when you're not diving everyday in a new algorithm problem that data structures aren't the same thing as Abstract data types. For me, when I hear abstract data types I'm immediately teleported back in my old college years in a course bench while trying to draw an array copy or instantiating a new heap, all of this while the dangerous mathematical symbols  where getting displayed on the teachers tableboard.
 
-4asdasdasdsa
-
-5asdasdasdsa
+### Abstract Data types
