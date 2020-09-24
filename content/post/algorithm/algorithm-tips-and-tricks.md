@@ -1,7 +1,6 @@
 +++
 authors = ["bataraga radu"]
 date = 2020-09-20T21:00:00Z
-draft = true
 excerpt = "You are given an algorithm problem. How do you proceed?"
 hero = "/images/algorithm-preview.jpg"
 timeToRead = 3
