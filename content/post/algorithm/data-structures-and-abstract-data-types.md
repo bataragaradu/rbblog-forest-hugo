@@ -4,18 +4,16 @@ date = 2020-09-22T21:00:00Z
 excerpt = "Lets have a general idea about abstract data types and data structures."
 hero = "/images/algorithm-preview.jpg"
 timeToRead = 10
-title = "Data structures and Abstract Data Types"
+title = "Data Structures and Abstract Data Types"
 
 +++
- 
-
->  
+> 
 
 ### Lets have a general idea about abstract data types and data structures.
 
-It's easy to forget when you're not diving everyday in a new algorithm problem that data structures aren't the same thing as Abstract data types. For me, when I hear abstract data types I'm immediately teleported back in my old college years in a course bench while trying to draw an array copy or instantiating a new heap, all of this while the dangerous mathematical symbols  where getting displayed on the teachers board.
+It's easy to forget when you're not diving everyday in an algorithm problem, that data structures aren't the same thing as Abstract data types. For me, when I hear abstract data types I'm immediately teleported back in my old college years in a course bench while trying to draw an array copy or instantiating a new heap, all of this while the dangerous mathematical symbols  are getting displayed on the teachers board.
 
-But jokes aside, it's very important to know what type of data structure we should use to implement an abstract data type, this can save a lot of time execution for some certain problems.
+But jokes aside, it's very important to know what type of data structure we should use to implement an abstract data type, this can save a lot of time execution for certain problems.
 
 ### Abstract Data types
 
@@ -28,8 +26,8 @@ The most common operations for ADTs:
 * constructor for the elements
 * Destructor
 * Element access
-* Instance manipulation 
-* Verification of the instances 
+* Instance manipulation
+* Verification of the instances
 
 The most common ADTs:
 
@@ -48,8 +46,8 @@ The most common ADTs:
 
 ### Data Structures
 
-Data structures are used to implement ADTs. Usually there are multiple implementation for one ADTs. For example we can implement a stack by using   
-We can see data structures from two major points: 
+Data structures are used to implement ADTs. Usually there are multiple implementation for one ADTs. For example we can implement a stack by using  
+We can see data structures from two major points:
 
 _Logical_, the way data binds together
 
