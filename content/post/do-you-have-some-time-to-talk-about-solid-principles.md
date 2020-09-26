@@ -18,7 +18,7 @@ Single Responsabillity Principle = S
 
 Open closed Principle = O
 
-Liskov Principle = L 
+Liskov Principle = L
 
 Interface segregation = I
 
