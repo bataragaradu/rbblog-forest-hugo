@@ -1,8 +1,8 @@
 +++
-authors = []
-date = ""
+authors = ["Bataraga Radu"]
+date = 2020-09-25T21:00:00Z
 draft = true
-excerpt = "Man oh man, back to the good old Uncle Bob talks"
+excerpt = "Man oh man, back to the good old Uncle Bob talk"
 hero = ""
 timeToRead = 10
 title = "Do you have some time to talk about SOLID principles?"
